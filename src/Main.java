@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Уважаемый наставник представляю Вашему вниманию домашнее задание "
-                + "к уроку за 27 февраля 2026г. ");
+                + "к уроку за 2 марта 2026г. ");
         System.out.println();
 
         System.out.println("Задача №1 ");
